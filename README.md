@@ -3,6 +3,7 @@
 A project using Pandas and Jupyter Notebook to assist the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 **Local Government Area (LGA) Summary**
+
 Performed the necessary calculations and then created a high-level snapshot of the local government area's key metrics in a DataFrame including following:
 1. Total number of unique schools
 2. Total students
@@ -48,7 +49,8 @@ Performed the necessary calculations and then created a DataFrame that summarise
 
 
 **Report**
-Please see attached my code which has all functionalities as per the requirement. It prints correct results and have also submitted a separate writter report summarising the analysis named as 'Written Report' as per the requirement.
+
+A separate writter report summarising the analysis named as 'Written Report.dox' 
 
 
 **Resources**
