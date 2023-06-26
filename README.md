@@ -1,65 +1,83 @@
-# Pandas-Challenge
+# Pandas-Challenge: 
 
-A project using Pandas and Jupyter Notebook to assist the school board and mayor make strategic decisions regarding future school budgets and priorities.
+**Empowering Strategic Decision-Making with Data Insights**
 
-**Local Government Area (LGA) Summary**
-
-Performed the necessary calculations and then created a high-level snapshot of the local government area's key metrics in a DataFrame including following:
-1. Total number of unique schools
-2. Total students
-3. Total budget
-4. Average maths score
-5. Average reading score
-6. % passing maths (the percentage of students who passed maths)
-7. % passing reading (the percentage of students who passed reading)
-8. % overall passing (the percentage of students who passed maths AND reading)
+Utilizing the power of Pandas and Jupyter Notebook, I spearheaded a transformative project aimed at assisting the school board and mayor in making informed strategic decisions regarding future school budgets and priorities. By harnessing data-driven analysis, I have drwan valuable insights into the educational landscape of the local government area (LGA).
 
 
-**School Summary**
+**Local Government Area (LGA) Summary:**
 
-Performed the necessary calculations and then created a DataFrame that summarises key metrics about each school including following:
-1. School name
-2. School type
-3. Total students
-4. Total school budget
-5. Per student budget
-6. Average maths score
-7. Average reading score
-8. % passing maths (the percentage of students who passed maths)
-9. % passing reading (the percentage of students who passed reading)
-10. % overall passing (the percentage of students who passed maths AND reading)
+Through rigorous calculations and meticulous data processing, I curated a comprehensive high-level snapshot of the LGA's key metrics. This included:
 
+Total number of unique schools
 
-**Additional**
+Total student count
 
-- Sorted the schools by % Overall Passing in descending order and displaying the top 5 rows.
-- Sorted the schools by % Overall Passing in ascending order and display the top 5 rows.
-- Performed the necessary calculations to create a DataFrame that lists the average maths score for students of each year level (9, 10, 11, 12) at each school.
-- Created a DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
-- Created a table that breaks down school performance based on average spending ranges (per student).
-- Created four bins with reasonable cutoff values to group school spending.
-- created a DataFrame called spending_summary to include the following metrics in the table:
-    Average maths score
-    Average reading score
-    % passing maths (the percentage of students who passed maths)
-    % passing reading (the percentage of students who passed reading)
-    % overall passing (the percentage of students who passed maths AND reading)
-- Created a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large)
-- Created a new DataFrame to show school performance based on the "School Type"
+Overall budget allocation
+
+Average mathematics scores
+
+Average reading scores
+
+Percentage of students passing mathematics
+
+Percentage of students passing reading
+
+Overall passing rate (students who passed both mathematics and reading)
 
 
-**Report**
+**School Summary:**
 
-A separate writter report summarising the analysis named as 'Written Report.dox' 
+Employing advanced data manipulation techniques, I crafted a detailed DataFrame that encapsulates vital metrics about each school, such as:
+
+School name
+
+School type
+
+Total student count
+
+Total school budget
+
+Budget per student
+
+Average mathematics scores
+
+Average reading scores
+
+Percentage of students passing mathematics
+
+Percentage of students passing reading
+
+Overall passing rate (students who passed both mathematics and reading)
 
 
-**Resources**
-1. YouYube
-2. https://www.w3schools.com/
-3. learnpython.com
-4. www.geeksforgeeks.org
-5. flexiple.com
-6. www.simplilearn.com 
+**Additional Insights:**
+
+In addition to the core analyses, I delved further into the data to uncover additional valuable insights. These include:
+
+Identifying the top-performing schools based on the percentage of overall passing students, showcasing the top 5 schools in descending and ascending order.
+
+Analyzing the average mathematics and reading scores for students in each year level (9, 10, 11, 12) at every school.
+
+Constructing a table that effectively breaks down school performance based on spending ranges per student. Four distinct spending bins were created, and the table, named "spending_summary," encompasses metrics such as average mathematics scores, average reading scores, percentage of students passing mathematics, percentage of students passing reading, and overall passing rate.
+
+Developing a comprehensive "size_summary" DataFrame that categorizes schools into small, medium, or large based on their size, allowing for a detailed analysis of school performance within each category.
+
+Unveiling school performance insights based on the "School Type" by creating a dedicated DataFrame that provides a holistic overview of how different school types fare in terms of various metrics.
 
 
-Please do not hesitate to contact me if you need further information.
+**Report and Documentation:**
+
+To ensure seamless comprehension and facilitate decision-making, I compiled all the analysis findings into a concise and professionally written report named "Written Report.docx."
+
+
+**Resources:**
+
+Throughout this project, I drew upon an array of reputable resources, including YouTube tutorials, w3schools, learnpython.com, geeksforgeeks.org, flexiple.com, and simplilearn.com. These sources bolstered my technical expertise and enriched the quality of my work.
+
+Please feel free to reach out if you require any further information or have additional inquiries.
+
+
+
+
+
