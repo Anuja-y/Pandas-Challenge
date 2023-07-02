@@ -2,7 +2,7 @@
 
 **Empowering Strategic Decision-Making with Data Insights**
 
-Utilizing the power of Pandas and Jupyter Notebook, I spearheaded a transformative project aimed at assisting the school board and mayor in making informed strategic decisions regarding future school budgets and priorities. By harnessing data-driven analysis, I have drwan valuable insights into the educational landscape of the local government area (LGA).
+Utilizing the power of Pandas and Jupyter Notebook, I spearheaded a transformative project aimed at assisting the school board and mayor in making informed strategic decisions regarding future school budgets and priorities. By harnessing data-driven analysis, I have drawn valuable insights into the educational landscape of the local government area (LGA).
 
 
 **Local Government Area (LGA) Summary:**
